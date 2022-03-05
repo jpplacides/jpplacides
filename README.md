@@ -21,7 +21,6 @@
  <a href="https://steamcommunity.com/id/meugninn/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
    <img align="right" alt="Placides-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/769375942376161290/949477223646257162/animation.gif">
 </div>
-![Snake animation](https://github.com/jpplacides/jpplacides/blob/output/github-contribution-grid-snake.svg)
-  
-##
+
+![Snake animation](https://github.com/jpplacides/jpplacides/blob/output/github-contribution-grid-snake.svg)  
   
