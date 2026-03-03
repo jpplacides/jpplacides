@@ -1,8 +1,7 @@
 ### Opa, bão
 
-- 🔭 Atualmente trabalhando no desenvolvimento de um site
-- 🌱 Aprendendo HTML/CSS/JS
-- 😄 Pronomes: ele/dele
+- 🔭 Iniciando na programação
+- 🌱 Aprendendo JS/PHP/PYTHON
 - ⚡ Fun fact: sou técnico em eletrônica
 
 <div align="justfied">
